@@ -68,8 +68,7 @@ function sumOfDigitsInFactorial(n) {
 	return sum;
 }
 
-// Example usage:
-const n = 100; // Change this to your desired value of n
+const n = 100;
 const sumOfDigits = sumOfDigitsInFactorial(n);
 
-console.log(`The sum of the digits in ${n}! is: ${sumOfDigits}`);
+console.log(`For problem 2 the sum of the digits in ${n}! is: ${sumOfDigits}`);
